@@ -33,10 +33,10 @@
   }
   
   .formContainer {
-    max-width: 200px;
+    max-width: 400px;
     background-color: #ffffffbb;
     padding: 20px;
-    float: right;
+    float: left;
   }
   
   h2 {
